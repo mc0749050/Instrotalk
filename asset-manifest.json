@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Instrotalk/static/css/main.16354c6b.css",
+    "main.js": "/Instrotalk/static/js/main.be91c82e.js",
+    "static/js/453.9536c715.chunk.js": "/Instrotalk/static/js/453.9536c715.chunk.js",
+    "static/media/logo.png": "/Instrotalk/static/media/logo.80f6610973bb7b24d9b8.png",
+    "index.html": "/Instrotalk/index.html",
+    "main.16354c6b.css.map": "/Instrotalk/static/css/main.16354c6b.css.map",
+    "main.be91c82e.js.map": "/Instrotalk/static/js/main.be91c82e.js.map",
+    "453.9536c715.chunk.js.map": "/Instrotalk/static/js/453.9536c715.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16354c6b.css",
+    "static/js/main.be91c82e.js"
+  ]
+}
